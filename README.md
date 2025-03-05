@@ -1,9 +1,8 @@
-# Practical Application Assignment 5.1 - Will the Customer Accept the Coupon?
+# Practical Application-1 Berkely Professional Certificatye in ML/AI (Module-5 Assignment 5.1) - Will the Customer Accept the Coupon?
 
+The goal of this project is to use Probability Distributions and Visualizations and distinguish between customers who accepted a driving coupon versus those who did not. The project also involves applying data analysis, plotting, statistical summarization, and data visualization skills and techniques to a machine learning problem.
 
-The goal of this project was to use visualizations and probability distributions to distinguish between customers who accepted a driving coupon versus those that did not. The dataset used in the analysis is available here:
-
-[Link to Coupons Dataset](data/coupons.csv)
+The Dataset used for analysis is provided here:[Link to Coupons Dataset](data/coupons.csv)
 
 The programming language used was Python, and the libraries used were: pandas, seaborn, matplotlib, numpy
 The specifics of the analysis, including code, visualizations, comments, and observations are contained in the following Jupiter Notebook:
