@@ -4,30 +4,35 @@ The goal of this project is to use Probability Distributions and Visualizations 
 
 # Note about the Folder and Files and Dataset
 1> The Folder Structure for this Project is as below under the repository: "BerkeleyMLAI-Module5-Practical-Exercises"
+
 ![image](https://github.com/user-attachments/assets/d6d15698-033a-48a6-b561-50a7d9ad8f16)
+
 2> The Dataset used for analysis is provided here:[Link to Coupons Dataset](data/coupons.csv) (Dataset is comprised of 12684 records and 26 Column Headers)
 3> The coding language used is Python. The libraries used are: pandas, seaborn, matplotlib and numpy
 4> Jupyter Notebook is included in the "Code" Folder: [Link to Jupyter Notebook](code/CustomerCouponAcceptance.jpynb)
 
-## Exploratory Data Analysis:
-Snap Shot of the columns or the Attributes in the Dataset
+## Exploratory Data Analysis and Dataset Investigation:
+Snap Shot of the actuals : Columns or the Attributes in the Dataset -
 ![image](https://github.com/user-attachments/assets/a4c88fa9-854e-4e16-a3eb-03e3f1882d9d)
 
 #### Missing Data:
+This is the sbnapshot of the missing data:
+![image](https://github.com/user-attachments/assets/ad3eee28-99b6-4b3c-a21e-febaa4153262)
+
+The 'car' column had higher percentage of missing data. And was not taken into consideration. For the rest of the Data column elements the most occuring data value appearing in the respective column was filled in.
 
 #### Duplicate Data: 
+74 Duplicate Records were also removed.
+The final count of Dataset arrived at for analysis was : 12610
 
 ## General Data Visualizations
 ![Image](graphplots/CouponTypes.png)
 <br>
 <br>
 ![Image](graphplots/Temperature.png)
-
-
 ## Data Summary Points
-
 #### General:
-* A coupon was accepted approximately **57%** of the time.
+Proportion of Total Observations who decided to accept the coupon were :  7157 56.76% 
 
 #### Bar Coupon Specific:
 * Overall acceptance rate: **41%**
