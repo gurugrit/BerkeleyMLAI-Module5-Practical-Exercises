@@ -1,4 +1,4 @@
-# Berkely Professional Certificate in ML/AI <br> Practical Application-1(Module-5/Assignment 5.1) : Will the Customer Accept the Coupon?
+# Berkely Professional Certificate in ML/AI <br> Practical Application-1(Module-5/Assignment 5.1) : <br>Will the Customer Accept the Coupon?
 
 The goal of this project is to use Probability Distributions and Visualizations and distinguish between customers who accepted a driving coupon versus those who did not. The project also involves applying data analysis, plotting, statistical summarization, and data visualization skills and techniques to a machine learning problem.
 
