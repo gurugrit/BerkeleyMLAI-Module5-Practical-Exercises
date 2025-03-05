@@ -3,7 +3,7 @@
 
 The goal of this project was to use visualizations and probability distributions to distinguish between customers who accepted a driving coupon versus those that did not. The dataset used in the analysis is available here:
 
-[Link to Coupons Dataset](/coupons.csv)
+[Link to Coupons Dataset](../data/coupons.csv)
 
 
 The programming language used was Python, and the libraries used were: pandas, seaborn, matplotlib, numpy, and sweetviz.
