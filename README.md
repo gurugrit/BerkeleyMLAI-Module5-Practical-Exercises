@@ -18,10 +18,10 @@ The specifics of the analysis, including code, visualizations, comments, and obs
 #### Duplicate Data: 
 
 ## General Data Visualizations
-![Image](graphplotys/CouponTypes.png)
+![Image](graphplots/CouponTypes.png)
 <br>
 <br>
-![Image](graphplotys/Temperature.png)
+![Image](graphplots/Temperature.png)
 
 
 ## Data Summary Points
