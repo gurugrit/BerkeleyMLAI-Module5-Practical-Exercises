@@ -35,7 +35,7 @@ Plot of when  do people prefer to go out and use the coupons.<br>
 <br>
 ## Data Summary Points
 #### General:
-Proportion of Total Observations who decided to accept the coupon were :  7157 56.76% 
+Proportion of Total Observations who decided to accept the coupon were :  7157 which is 56.76% 
 #### Bar Coupon Acceptance Readout:
 * Acceptance rate for Bar coupons was found to be : **40.9%**
 * Acceptance rate from those who go to bar <=3 times a month : **37.05%**
@@ -58,28 +58,35 @@ We can hypothesize the following about drivers who accepted the bar coupons:
     compared to rest others**     : Not much of acceptance (33%)
 <br>
 
-## Independent Investigation - Carry Out & Take Away Coupon Declines
+## Independent Investigation - Coffee House Coupon Acceptors
 
-Further analysis focused on drivers who declined Carry Out & Take Away coupons.
+This provides analysis information and plots of customers who accepted Coffee House Coupons
 <br>
 <br>
-![Image](/images/CouponsDeclineByAge.png)
+![Image](graphplots/CoffeeHouseAndAge.png)
 
-**Age:** The age groups of 21 and 26 years old are the most likely to decline Carry Out & Take away coupons, each constituting approximately 20% of the declines. This suggests that younger adults in their early to mid-twenties are more inclined to decline these coupons.
-<br>
-<br>
-
-![Image](/images/CouponsDeclineByMaritalStatus.png)
-
-**Marital Status:** The majority of declines come from individuals with a married partner (approximately 40%) and singles (approximately 37%). This indicates that marital status, particularly being married or single, plays a significant role in the likelihood of declining Carry Out & Take away coupons.
+**Coffee House Coupons and Age Factor:** ABC
 <br>
 <br>
 
-![Image](/images/CouponsDeclineByEducation.png)
+![Image](graphplots/CoffeeHouseAndOccupationMapping.png)
 
-**Education:** Individuals with a Bachelor's degree are the most likely to decline these coupons, making up approximately 37% of the declines, followed by those with some college but no degree (approximately 30%). This suggests a higher tendency to decline among those with higher education levels.
+**Coffee House Coupons Acceptance and Occupation Factor:** ABC.
+<br>
+<br>
+
+![Image](graphplots/CoffeeHouseAndMaritalStats.png)
+
+**Coffee House Coupons Acceptance and Marital Factor:** ABC.
 <BR>
 <BR>
+
+![Image](graphplots/CoffeeHouseAndEducation.png)
+
+**Coffee House Coupons Acceptance and Edcuation Factor:** ABC.
+<BR>
+<BR>
+
 ## Recommended Next Steps
 
 Based on the analyses performed and the insights gained about drivers who accept bar coupons and those who decline Carry Out & Take Away coupons, here are the recommended next steps to further understand the dataset and actions to take as a result of this increased understanding:
