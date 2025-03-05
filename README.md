@@ -17,7 +17,7 @@ Snap Shot of the actuals : Columns or the Attributes in the Dataset -
 
 #### Missing Data:
 <br>
-This is the sbnapshot of the missing data:<br>
+This is the sbnapshot of the missing data -
 ![image](https://github.com/user-attachments/assets/ad3eee28-99b6-4b3c-a21e-febaa4153262)
 <br>
 As seen from above the car' column had higher percentage of missing data. And was not taken into consideration. For the rest of the Data column elements the most occuring data value appearing in the respective column was filled in.
