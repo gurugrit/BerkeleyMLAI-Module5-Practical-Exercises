@@ -8,7 +8,7 @@ The goal of this project is to use Probability Distributions and Visualizations 
 ![image](https://github.com/user-attachments/assets/d6d15698-033a-48a6-b561-50a7d9ad8f16)
 
 2> The Dataset used for analysis is provided here:[Link to Coupons Dataset](data/coupons.csv) (Dataset is comprised of 12684 records and 26 Column Headers)<br>
-3> The coding language used is Python. The libraries used are: pandas, seaborn, matplotlib and numpy
+3> The coding language used is Python. The libraries used are: pandas, seaborn, matplotlib and numpy<br>
 4> Jupyter Notebook is included in the     "Code" Folder: [Link to Jupyter Notebook](code/CustomerCouponAcceptance.jpynb)
 
 ## Exploratory Data Analysis and Dataset Investigation:
