@@ -2,14 +2,16 @@
 
 The goal of this project is to use Probability Distributions and Visualizations and distinguish between customers who accepted a driving coupon versus those who did not. The project also involves applying data analysis, plotting, statistical summarization, and data visualization skills and techniques to a machine learning problem.
 
-The Dataset used for analysis is provided here:[Link to Coupons Dataset](data/coupons.csv)
-
-The programming language used was Python, and the libraries used were: pandas, seaborn, matplotlib, numpy
-The specifics of the analysis, including code, visualizations, comments, and observations are contained in the following Jupiter Notebook:
-
-[Link to Jupyter Notebook](code/CustomerCouponAcceptance.jpynb)
+# Note about the Folder and Files and Dataset
+1> The Folder Structure for this Project is as below under the repository: "BerkeleyMLAI-Module5-Practical-Exercises"
+![image](https://github.com/user-attachments/assets/d6d15698-033a-48a6-b561-50a7d9ad8f16)
+2> The Dataset used for analysis is provided here:[Link to Coupons Dataset](data/coupons.csv) (Dataset is comprised of 12684 records and 26 Column Headers)
+3> The coding language used is Python. The libraries used are: pandas, seaborn, matplotlib and numpy
+4> Jupyter Notebook is included in the "Code" Folder: [Link to Jupyter Notebook](code/CustomerCouponAcceptance.jpynb)
 
 ## Exploratory Data Analysis:
+Snap Shot of the columns or the Attributes in the Dataset
+![image](https://github.com/user-attachments/assets/a4c88fa9-854e-4e16-a3eb-03e3f1882d9d)
 
 #### Missing Data:
 
