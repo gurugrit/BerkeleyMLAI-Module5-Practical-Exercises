@@ -9,27 +9,19 @@ The goal of this project was to use visualizations and probability distributions
 The programming language used was Python, and the libraries used were: pandas, seaborn, matplotlib, numpy, and sweetviz.
 The specifics of the analysis, including code, visualizations, comments, and observations are contained in the following Jupiter Notebook:
 
-[Link to Jupyter Notebook](/PAA_51.jpynb)
+[Link to Jupyter Notebook](code/CustomerCouponAcceptance.jpynb)
 
 ## Exploratory Data Analysis:
 
-The python SweetViz library was leveraged for initial data exploration. The complete SweetViz report is available here: 
-
-[Link to SweetViz Report](/SWEETVIZ_REPORT.html)
-
-The following potential data quality issues were identified:
-
 #### Missing Data:
-With approximately 99% of the values for 'car' being blank it isn't really adding much value to the dataset. The other columns missing values are missing so few values (i.e. less than 2%) that this will not have a significant impact overall. As a result the ‘car’ attribute was dropped from the dataset for analysis.
 
 #### Duplicate Data: 
-There are 74 duplicate rows. This is a survey and, as such, it is quite possible that there will be duplicates. The duplicates have been retained as we are interested in every response.
 
 ## General Data Visualizations
-![Image](/images/CouponTypeDist.png)
+![Image](graphplotys/CouponTypes.png)
 <br>
 <br>
-![Image](/images/TempDist.png)
+![Image](graphplotys/Temperature.png)
 
 
 ## Data Summary Points
