@@ -26,25 +26,25 @@ As seen from above the car' column had higher percentage of missing data. And wa
 The final count of Dataset arrived at for analysis was : 12610
 
 ## General Data Visualizations
-Plot of Popularity of the Coupon itself.
+Plot of Popularity of the Coupon itself.<br>
 ![Image](graphplots/CouponTypes.png)
 <br>
 <br>
-Plot of when  do people prefer to go out and use the coupons.
+Plot of when  do people prefer to go out and use the coupons.<br>
 ![Image](graphplots/Temperature.png)
 <br>
 ## Data Summary Points
 #### General:
 Proportion of Total Observations who decided to accept the coupon were :  7157 56.76% 
 #### Bar Coupon Acceptance Readout:
-* Acceptance rate is: **40.9%**
-* Acceptance rate from those who go to bar <=3 times a month: **37.05%**
-* Acceptance rate from those who go to the bar >3 times a month: **76.88%**
-* Drivers Over 25 who go to bar, their acceptance rate: **69.52%**
-* Acceptance rate of drivers that go to the bar at least once per month and have no kids: **71.32%**
-* Acceptance rates of those who go to bars more than once a month, had passengers that were not a kid, and were not widowed: **71.32%**
-* Acceptance rates of those who go to bars more than once a month and are under the age of 30: **72.17%**
-* Acceptance rates of those who go to cheap restaurants more than 4 times a month and income is less than 50K: **45.34%**
+* Acceptance rate for Bar coupons was found to be : **40.9%**
+* Acceptance rate from those who go to bar <=3 times a month : **37.05%**
+* Acceptance rate from those who go to the bar >3 times a month : **76.88%**
+* Drivers Over 25 who go to bar, their acceptance rate : **69.52%**
+* Acceptance rate of drivers that go to the bar at least once per month and have no kids : **71.32%**
+* Acceptance rates of those who go to bars more than once a month, had passengers that were not a kid, and were not widowed : **71.32%**
+* Acceptance rates of those who go to bars more than once a month and are under the age of 30 : **72.17%**
+* Acceptance rates of those who go to cheap restaurants more than 4 times a month and income is less than 50K : **45.34%**
 ## Hypotheses
 We can hypothesize the following about drivers who accepted the bar coupons:
 
