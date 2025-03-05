@@ -30,7 +30,7 @@ Plot of Popularity of the Coupon itself.<br>
 ![Image](graphplots/CouponTypes.png)
 <br>
 <br>
-Plot of when  do people prefer to go out and use the coupons.<br>
+What weather do people prefer when going out with coupons?<br>
 ![Image](graphplots/Temperature.png)
 <br>
 ## Data Summary Points
