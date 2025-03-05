@@ -48,7 +48,7 @@ Proportion of Total Observations who decided to accept the coupon were :  7157 w
 ## Hypotheses
 We can hypothesize the following about drivers who accepted the bar coupons:
 
-* **1> Age Factor**               : 72% of the young adults who are less than 30yrs frequent the bar often more than once a month, and they also willingly 
+* **Age Factor**                  : 72% of the young adults who are less than 30yrs frequent the bar often more than once a month, and they also willingly 
                                     accept coupons
 * **Prefer Cheaper Places**       : People who make less income seems to prefer cheaper dining places
 * **Atleast 1 Bar visit a month** : Is primarily among those who don't have any kids - Kind of social animals
