@@ -22,8 +22,8 @@ This is the sbnapshot of the missing data -<br>
 As seen from above the car' column had higher percentage of missing data. And was not taken into consideration. For the rest of the Data column elements the most occuring data value appearing in the respective column was filled in.
 <br>
 #### Duplicate Data: 
-74 Duplicate Records were also removed.
-The final count of Dataset arrived at for analysis was : 12610
+####74#### Duplicate Records were also removed.
+The final count of Dataset arrived at for analysis was : ####12610####
 
 ## General Data Visualizations
 Plot of Popularity of the Coupon itself.<br>
