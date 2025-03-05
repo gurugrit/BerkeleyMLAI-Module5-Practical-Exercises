@@ -77,7 +77,7 @@ This provides analysis information and plots of customers who accepted Coffee Ho
 
 ![Image](graphplots/CoffeeHouseAndMaritalStats.png)
 
-**C. Coffee House Coupons Acceptance and Marital Factor:** Divorced and those with single status look not to be socializing much or going out.
+**C. Coffee House Coupons Acceptance and Marital Factor:** Divorced and those with Widowed status look not to be socializing much or going out.
 <BR>
 <BR>
 
