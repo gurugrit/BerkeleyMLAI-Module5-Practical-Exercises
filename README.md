@@ -69,7 +69,7 @@ This provides analysis information and plots of customers who accepted Coffee Ho
 <br>
 <br>
 
-![Image](graphplots/CoffeeHouseAndOccupationMapping.png)
+![Image](graphplots/CoffeeHouseAndOccupation.png)
 
 **B. Coffee House Coupons Acceptance and Occupation Factor:** Interestingly people with no or some college education possibly seem to socialize a lot than the one with a bit of higher education, student community are also more on the acceptance side of the graph.
 <br>
