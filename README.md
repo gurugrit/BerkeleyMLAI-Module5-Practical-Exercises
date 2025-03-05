@@ -65,28 +65,28 @@ This provides analysis information and plots of customers who accepted Coffee Ho
 <br>
 ![Image](graphplots/CoffeeHouseAndAge.png)
 
-**Coffee House Coupons and Age Factor:** Looks like the category of people who accept coffee house coupons are more in the 20's. 
+**A. Coffee House Coupons and Age Factor:** Looks like the category of people who accept coffee house coupons are more in the 20's. 
 <br>
 <br>
 
 ![Image](graphplots/CoffeeHouseAndOccupationMapping.png)
 
-**Coffee House Coupons Acceptance and Occupation Factor:** Interestingly people with no or some college education possibly seem to socialize a lot than the one with a bit of higher education, student community are also more on the acceptance side of the graph.
+**B. Coffee House Coupons Acceptance and Occupation Factor:** Interestingly people with no or some college education possibly seem to socialize a lot than the one with a bit of higher education, student community are also more on the acceptance side of the graph.
 <br>
 <br>
 
 ![Image](graphplots/CoffeeHouseAndMaritalStats.png)
 
-**Coffee House Coupons Acceptance and Marital Factor:** Divorced and those with single status look not to be socializing much or going out.
+**C. Coffee House Coupons Acceptance and Marital Factor:** Divorced and those with single status look not to be socializing much or going out.
 <BR>
 <BR>
 
 ![Image](graphplots/CoffeeHouseAndEducation.png)
 
-**Coffee House Coupons Acceptance and Edcuation Factor:** More of the professional working group members seems to not accept coffee house coupons. Possible they prefer some other form of coupons.
+**D. Coffee House Coupons Acceptance and Edcuation Factor:** More of the professional working group members seems to not accept coffee house coupons. Possible they prefer some other form of coupons.
 <BR>
 <BR>
-## Possible Next Steps:
+# Possible Next Steps:
 <br>
 1> Simplification of Data for easier analysis.<br>
 2> Some other data factors have not been used in the above analysis, like Destination, Location, Direction, <br>Time of day, Weather conditions to study how it may affect the   acceptance rate of the coupons.<br>
