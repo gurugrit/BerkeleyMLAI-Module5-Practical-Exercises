@@ -5,8 +5,7 @@ The goal of this project was to use visualizations and probability distributions
 
 [Link to Coupons Dataset](data/coupons.csv)
 
-
-The programming language used was Python, and the libraries used were: pandas, seaborn, matplotlib, numpy, and sweetviz.
+The programming language used was Python, and the libraries used were: pandas, seaborn, matplotlib, numpy
 The specifics of the analysis, including code, visualizations, comments, and observations are contained in the following Jupiter Notebook:
 
 [Link to Jupyter Notebook](code/CustomerCouponAcceptance.jpynb)
