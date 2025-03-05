@@ -27,10 +27,14 @@ As seen from above the car' column had higher percentage of missing data. And wa
 The final count of Dataset arrived at for analysis was : 12610
 
 ## General Data Visualizations
+Plot of Popularity of the Coupon itself.<br>
 ![Image](graphplots/CouponTypes.png)
 <br>
 <br>
+Plot of when  do people prefer to go out and use the coupons
+<br>
 ![Image](graphplots/Temperature.png)
+<br>
 ## Data Summary Points
 #### General:
 Proportion of Total Observations who decided to accept the coupon were :  7157 56.76% 
